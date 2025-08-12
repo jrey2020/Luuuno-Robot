@@ -54,10 +54,23 @@ Detailed wiring diagrams, CAD models, and schematics are in [`/hardware`](hardwa
 Photos and videos of Luuno in action are in [`/media`](media).
 
 ---
+## 🚀 Running the Programs
 
-## 🚀 How to Run
+Clone the repository:
+```bash
+git clone https://github.com/jrey2020/Luuuno-Robot.git
+cd Luuuno-Robot/code
+# Program 1 – Gesture & Face Tracking
+python3 program1_gesture_face_tracking.py
 
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/jrey2020/Luuuno-Robot.git
-   cd Luuuno-Robot/code
+# Program 2 – Vision-Guided Target Tracking
+python3 program2_vision_target_tracking.py
+
+# Program 3 – Precision Encoder & LIDAR Navigation
+python3 program3_precision_lidar_navigation.py
+
+# Program 4 – Hybrid Escape Navigation
+python3 program4_hybrid_escape_navigation.py
+
+
+
