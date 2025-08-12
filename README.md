@@ -29,24 +29,14 @@ Detailed wiring diagrams, CAD models, and schematics are in [`/hardware`](hardwa
 
 ## 💻 Software Overview
 
-### **Program 1 — Gesture + Face Tracking Control**
-- Switches between gesture control and face-following using RealSense D455 and ZED 2i.
-- Touchless control via hand gestures; follows recognized user in face mode.
-- Real-time multi-threaded architecture for smooth operation.
+- [Program 1 — Gesture & Face Tracking Control](code/program1_gesture_face_tracking.py)
 
-### **Program 2 — Vision-Guided Target Tracking**
-- Detects and approaches specific **ArUco markers** using ZED camera depth and RoboClaw motor control.
-- Ideal for warehouse navigation and visual docking.
+- [Program 2 — Vision-Guided Target Tracking](code/program2_vision_target_tracking.py)
 
-### **Program 3 — Precision Encoder & LIDAR Navigation**
-- Executes precise turns, parking, and obstacle avoidance using LIDAR + encoders.
-- Fully autonomous without requiring AI or heavy compute.
+- [Program 3 — Precision Encoder & LIDAR Navigation](code/program3_precision_lidar_navigation.py)
 
-### **Program 4 — Hybrid Escape Navigation**
-- Solves maze-like environments with hybrid sensing: LIDAR + ZED EXIT detection + encoders.
-- Avoids loops, dynamically selects best path, and parks at exit.
+- [Program 4 — Hybrid Escape Navigation](code/program4_hybrid_escape_navigation.py)
 
-Source code for all programs is in [`/code`](code).
 
 ---
 
