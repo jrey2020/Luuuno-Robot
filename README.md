@@ -50,8 +50,28 @@ Detailed wiring diagrams, CAD models, and schematics are in [`/hardware`](hardwa
 
 ---
 
-## 📸 Media
-Photos and videos of Luuno in action are in [`/media`](media).
+## 🖼️ Media
+
+Photos and videos of Luuuno in action:
+
+### 📸 Images
+| Image 1 | Image 2 | Image 3 |
+| ------- | ------- | ------- |
+| ![Luuuno Pic 1](media/01_luuuno_pic_1.jpg) | ![Luuuno Pic 2](media/02_luuuno_pic_2.jpg) | ![Luuuno Pic 3](media/03_luuuno_pic_3.jpg) |
+
+
+
+---
+
+### 🎥 Demo Videos
+- [Find Your Way Out Demo](media/find_your_way_out_demo.mp4)  
+- [Follow My Commands Demo](media/follow_my_comands_demo.mp4)  
+- [Follow My Other Robot Demo](media/follow_my_other_robot_demo.mp4)  
+- [Maintain Your Distance Demo](media/mantain_your_distance_demo.mp4)  
+- [Recognize My Face (Only Me) and Follow Me Demo](media/recognize_my_face_only_me_and_follow_me_demo.mp4)  
+- [Self Parking Demo](media/self_parking_demo.mp4)  
+
+
 
 ---
 ## 🚀 Running the Programs
