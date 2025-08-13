@@ -67,12 +67,13 @@ Photos and videos of Luuuno in action:
 
 ### 🎥 Demo Videos (download)
 
-- **[Find Your Way Out Demo](https://raw.githubusercontent.com/jrey2020/Luuuno-Robot/main/media/find_your_way_out_demo.mp4)**
-- **[Follow My Comands Demo](https://raw.githubusercontent.com/jrey2020/Luuuno-Robot/main/media/follow_my_comands_demo.mp4)**
-- **[Follow My Other Robot Demo](https://raw.githubusercontent.com/jrey2020/Luuuno-Robot/main/media/follow_my_other_robot_demo.mp4)**
-- **[Maintain Your Distance Demo](https://raw.githubusercontent.com/jrey2020/Luuuno-Robot/main/media/mantain_your_distance_demo.mp4)**
-- **[Recognize My Face (Only Me) and Follow Me Demo](https://raw.githubusercontent.com/jrey2020/Luuuno-Robot/main/media/recognize_my_face_only_me_and_follow_me_demo.mp4)**
-- **[Self Parking Demo](https://raw.githubusercontent.com/jrey2020/Luuuno-Robot/main/media/self_parking_demo.mp4)**
+### 🎥 Demo Videos (download)
+- **[Find Your Way Out Demo](https://github.com/jrey2020/Luuuno-Robot/releases/download/v1-media/find_your_way_out_demo.mp4)**
+- **[Follow My Comands Demo](https://github.com/jrey2020/Luuuno-Robot/releases/download/v1-media/follow_my_comands_demo.mp4)**
+- **[Follow My Other Robot Demo](https://github.com/jrey2020/Luuuno-Robot/releases/download/v1-media/follow_my_other_robot_demo.mp4)**
+- **[Maintain Your Distance Demo](https://github.com/jrey2020/Luuuno-Robot/releases/download/v1-media/mantain_your_distance_demo.mp4)**
+- **[Recognize My Face (Only Me) and Follow Me Demo](https://github.com/jrey2020/Luuuno-Robot/releases/download/v1-media/recognize_my_face_only_me_and_follow_me_demo.mp4)**
+- **[Self Parking Demo](https://github.com/jrey2020/Luuuno-Robot/releases/download/v1-media/self_parking_demo.mp4)**
 
 
 
