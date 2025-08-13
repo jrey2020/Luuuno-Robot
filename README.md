@@ -57,7 +57,8 @@ Photos and videos of Luuuno in action:
 ### 📸 Images
 | Image 1 | Image 2 | Image 3 |
 | ------- | ------- | ------- |
-| ![Luuuno Pic 1](media/01_luuuno_pic_1.jpg) | ![Luuuno Pic 2](media/02_luuuno_pic_2.jpg) | ![Luuuno Pic 3](media/03_luuuno_pic_3.jpg) |
+| ![Luuuno Pic 1](media/01_luuno_pic_1.jpg) | ![Luuuno Pic 2](media/02_luuno_pic_2.jpg) | ![Luuuno Pic 3](media/03_luuno_pic_3.jpg) |
+
 
 
 
